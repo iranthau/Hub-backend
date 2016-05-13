@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Hub": {
+      "applicationId": "inQev5jlG1BWu0LdsRHBK5XbyQrADMJ6BwGXweEF"
+    },
+    "_default": {
+      "link": "Hub"
+    }
+  }
+}
